@@ -4,7 +4,7 @@ Học kỳ 2, Năm học 2023-2024
 
 **MSSV** : B2014570
 
-**Họ tên SV **: QUÁCH HUYỀN HUY
+**Họ tên SV**: QUÁCH HUYỀN HUY
 
 **Lớp học phần**: CT449_02
 
